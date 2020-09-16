@@ -28,7 +28,7 @@ Here are some ideas to get you started:
 </p>
 
 <p align="left">
-  🌈 Estudando atualmente: <strong>JavaScript/TypeScript, ReactJS e React Native e Node.JS.</strong>
+  🌈 Estudando atualmente: <strong>JavaScript/TypeScript, React/React Native e Node.JS.</strong>
 </p>
 
 <p align="left">
