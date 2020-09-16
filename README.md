@@ -13,11 +13,12 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador Gustavo">
 
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/gustavobcardoso/)
 [<img src="https://img.shields.io/github/followers/gustavobcardoso?label=follow&style=social" height="22" title="Follow me" />](https://github.com/GustavoBCardoso) 
 [![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:gustavob68@gmail.com)
+
+<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador Gustavo">
 
 <p align="left">
   Olá, meu nome é Gustavo sou <strong>Desenvolvedor Full-stack</strong>.<br>
@@ -42,10 +43,11 @@ Here are some ideas to get you started:
   🚀 Skills: <strong>PHP, NodeJs e Express, Java SpringBoot, HTML5, CSS3, Bootstrap, JavaScript, JQuery React, React Native, Angular, SQL, Analise de Dados, Spoon Pentaho (ETL), Neo4J, MS Excel, Tableau, Banco de Dados (Modelagem ER, Procedures, Normalização e etc), Git/GitHub e Docker.</strong>
 </p>
 
+<!--
 <p align="left">
 📫  Quer falar comigo? Me mande mensagem em alguma dessas redes sociais abaixo!
 </p>
-
+-->
 <p align="center"> 
  <a><img src="https://github-readme-stats.vercel.app/api?username=gustavobcardoso&show_icons=true&theme=graywhite" /></a>
 </p> 
