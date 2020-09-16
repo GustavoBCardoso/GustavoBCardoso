@@ -32,6 +32,10 @@ Here are some ideas to get you started:
 </p>
 
 <p align="left">
+  🤝 Gosto de trabalhar em equipe e ajudar no crescimento mútuo.
+ </p>
+
+<p align="left">
   🚀 Skills: <strong>PHP, NodeJs e Express, Java SpringBoot, HTML5, CSS3, Bootstrap, JavaScript, JQuery React, React Native, Angular, SQL, Analise de Dados, Spoon Pentaho (ETL), Neo4J, MS Excel, Tableau, Banco de Dados (Modelagem ER, Procedures, Normalização e etc), Git/GitHub e Docker.</strong>
 </p>
 
