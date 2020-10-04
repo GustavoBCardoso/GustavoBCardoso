@@ -8,17 +8,17 @@
 </p>
 
 <p align="center">
-  <a href="https://github.com/anuraghazra/github-readme-stats">
+  <a href="https://github.com/GustavoBCardoso/github-readme-stats">
     <img
       align="center"
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=wnqueiroz&layout=compact"
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=GustavoBCardoso&layout=compact"
     />
   </a>
   <a href="https://github.com/anuraghazra/github-readme-stats">
     <img
       align="center"
       height="165"
-      src="https://github-readme-stats.vercel.app/api?username=wnqueiroz&count_private=true&show_icons=true&custom_title=Github%20Status&hide=issues"
+      src="https://github-readme-stats.vercel.app/api?username=GustavoBCardoso&count_private=true&show_icons=true&custom_title=Github%20Status&hide=issues"
     />
   </a>
 </p>
@@ -57,7 +57,7 @@
   </a>
   <a href="https://neo4j.com/" target="_blank">
     <img
-      src="https://www.vectorlogo.zone/logos/neo4j/neo4j-ar21.svg"
+      src="https://www.vectorlogo.zone/logos/neo4j/neo4j-icon.svg"
       alt="neo4j"
       width="40"
       height="40"
@@ -99,6 +99,15 @@
     <img
       src="https://www.vectorlogo.zone/logos/php/php-ar21.svg"
       alt="php"
+      width="40"
+      height="40"
+    />
+  </a>
+    </a>
+    <a href="https://spring.io/projects/spring-boot" target="_blank">
+    <img
+      src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg"
+      alt="SpringBoot"
       width="40"
       height="40"
     />
