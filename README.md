@@ -87,8 +87,7 @@
       height="40"
     />
   </a>
-    </a>
-    <a href="https://www.php.net/" target="_blank">
+  <a href="https://www.php.net/" target="_blank">
     <img
       src="https://www.vectorlogo.zone/logos/php/php-icon.svg"
       alt="php"
@@ -96,8 +95,7 @@
       height="50"
     />
   </a>
-    </a>
-    <a href="https://spring.io/projects/spring-boot" target="_blank">
+  <a href="https://spring.io/projects/spring-boot" target="_blank">
     <img
       src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg"
       alt="SpringBoot"
@@ -137,7 +135,6 @@
       height="60"
     />
   </a>
-
 
 </p>
 
