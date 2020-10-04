@@ -30,8 +30,8 @@
   Hello, my name is Gustavo I am <strong> Full-stack developer </strong>. <br>
   Graduated in Information Systems from the State University of Goiás in Brazil. Currently working as a freelance developer.<br>
   More than 5 years working in the information technology.<br>
-  In constant search and improvement of knowledge.<br>
-<br>
+  In constant search and improvement of knowledge. <br><br>
+
 - 👨‍💻 I'm currently working full-time at **Maleta do Engenheiro**.
 - 🌱 Learning more about and studying: **NodeJS, ReactJS, React Native and SpringBoot**.
 
