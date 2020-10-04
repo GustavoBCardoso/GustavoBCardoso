@@ -97,7 +97,7 @@
   </a>
     <a href="https://www.php.net/" target="_blank">
     <img
-      src="https://www.vectorlogo.zone/logos/php/php-icon.svg"
+      src="https://www.vectorlogo.zone/logos/php/php-horizontal.svg"
       alt="php"
       width="40"
       height="40"
