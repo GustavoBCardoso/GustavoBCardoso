@@ -55,14 +55,7 @@
       height="40"
     />
   </a>
-  <a href="https://neo4j.com/" target="_blank">
-    <img
-      src="https://www.vectorlogo.zone/logos/neo4j/neo4j-icon.svg"
-      alt="neo4j"
-      width="40"
-      height="40"
-    />
-  </a>
+  
   <a href="https://nodejs.org" target="_blank">
     <img
       src="https://devicons.github.io/devicon/devicon.git/icons/nodejs/nodejs-original-wordmark.svg"
@@ -75,6 +68,22 @@
     <img
       src="https://devicons.github.io/devicon/devicon.git/icons/postgresql/postgresql-original-wordmark.svg"
       alt="postgresql"
+      width="40"
+      height="40"
+    />
+  </a>
+  <a href="https://neo4j.com/" target="_blank">
+    <img
+      src="https://www.vectorlogo.zone/logos/neo4j/neo4j-icon.svg"
+      alt="neo4j"
+      width="40"
+      height="40"
+    />
+  </a>
+  <a href="https://www.mysql.com/"_blank">
+    <img
+      src="https://www.vectorlogo.zone/logos/mysql/mysql-ar21.svg"
+      alt="mysql"
       width="40"
       height="40"
     />
