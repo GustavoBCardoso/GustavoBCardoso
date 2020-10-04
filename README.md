@@ -97,10 +97,10 @@
   </a>
     <a href="https://www.php.net/" target="_blank">
     <img
-      src="https://www.vectorlogo.zone/logos/php/php-icon.svg"
+      src="https://www.vectorlogo.zone/logos/php/php-ar21.svg"
       alt="php"
-      width="40"
-      height="50"
+      width="80"
+      height="60"
     />
   </a>
     </a>
