@@ -28,8 +28,7 @@
 </h2>
 
 
-### Abstract [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/gustavobcardoso/)
-[![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:gustavob68@gmail.com)
+### Abstract 
 
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador Gustavo">
   Hello, my name is Gustavo I am <strong> Full-stack developer </strong>. <br>
@@ -145,4 +144,5 @@
 
 ### Find me around the web 🌎:
 
-- 💼 Connecting and sharing professional updates on <a href="https://www.linkedin.com/in/gustavobcardoso/">LinkedIn</a>.
+- 💼 Connecting and sharing professional updates on [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/gustavobcardoso/) or contact us at [![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:gustavob68@gmail.com).
+
