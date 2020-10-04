@@ -26,6 +26,11 @@
 ## Hi there! <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px"></h2>
 
 ### Abstract
+<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador Gustavo">
+  Hello, my name is Gustavo I am <strong> Full-stack developer </strong>. <br>
+  Graduated in Information Systems from the State University of Goiás in Brazil. Currently working as a freelance developer.
+  More than 5 years working in the information technology.
+  In constant search and improvement of knowledge.
 
 - 👨‍💻 I'm currently working full-time at **Maleta do Engenheiro**.
 - 🌱 Learning more about and studying: **NodeJS, ReactJS, React Native and SpringBoot**.
