@@ -42,7 +42,6 @@
 ### Languages and Tools
 
 <br/>
-
 <p align="left">
 
   <a href="https://www.docker.com/" target="_blank">
