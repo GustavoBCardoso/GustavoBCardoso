@@ -1,53 +1,110 @@
-<!--
-**GustavoBCardoso/GustavoBCardoso** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
-
-[![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/gustavobcardoso/)
-[<img src="https://img.shields.io/github/followers/gustavobcardoso?label=follow&style=social" height="22" title="Follow me" />](https://github.com/GustavoBCardoso) 
-[![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:gustavob68@gmail.com)
-
-<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador Gustavo">
-
-<p align="left">
-  Olá, meu nome é Gustavo sou <strong>Desenvolvedor Full-stack</strong>.<br>
-  Formado em Sistemas de Informação pela Universidade Estadual de Goiás. Atualmente atuando como desenvolvedor autônomo/freelancer.
-  Mais de 5 anos atuando na área de tecnologia da informação.
-  Em constante busca e aprimoramento de conhecimento.
+<p align="center">
+  <a href="#">
+    <img align="center" width="280" src="signature.png" />
+  </a>
+  <a href="#">
+    <img align="center" width="510" src="banner.gif" />
+  </a>
 </p>
 
-<p align="left">
-  🌈 Estudando atualmente: <strong>JavaScript/TypeScript, React/React Native e Node.JS.</strong>
+<p align="center">
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img
+      align="center"
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=wnqueiroz&layout=compact"
+    />
+  </a>
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img
+      align="center"
+      height="165"
+      src="https://github-readme-stats.vercel.app/api?username=wnqueiroz&count_private=true&show_icons=true&custom_title=Github%20Status&hide=issues"
+    />
+  </a>
 </p>
 
-<p align="left">
-  🔥 Pretende aprender: <strong>Data Science.</strong>
-</p>
+## Hi there! <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px"></h2>
+
+### Abstract
+
+- 👨‍💻 I'm currently working full-time at **Maleta do Engenheiro**.
+- 🌱 Learning more about and studying: **NodeJS, ReactJS, React Native and SpringBoot**.
+
+### Languages and Tools
+
+<br/>
 
 <p align="left">
-  🤝 Gosto de trabalhar em equipe e ajudar no crescimento mútuo.
- </p>
 
-<p align="left">
-  🚀 Skills: <strong>PHP, NodeJs e Express, Java SpringBoot, HTML5, CSS3, Bootstrap, JavaScript, JQuery React, React Native, Angular, SQL, Analise de Dados, Spoon Pentaho (ETL), Neo4J, MS Excel, Tableau, Banco de Dados (Modelagem ER, Procedures, Normalização e etc), Git/GitHub e Docker.</strong>
+  <a href="https://www.docker.com/" target="_blank">
+    <img
+      src="https://devicons.github.io/devicon/devicon.git/icons/docker/docker-original-wordmark.svg"
+      alt="docker"
+      width="40"
+      height="40"
+    />
+  </a>
+  <a
+    href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"
+    target="_blank"
+  >
+    <img
+      src="https://devicons.github.io/devicon/devicon.git/icons/javascript/javascript-original.svg"
+      alt="javascript"
+      width="40"
+      height="40"
+    />
+  </a>
+  <a href="https://neo4j.com/" target="_blank">
+    <img
+      src="https://www.vectorlogo.zone/logos/neo4j/neo4j-ar21.svg"
+      alt="neo4j"
+      width="40"
+      height="40"
+    />
+  </a>
+  <a href="https://nodejs.org" target="_blank">
+    <img
+      src="https://devicons.github.io/devicon/devicon.git/icons/nodejs/nodejs-original-wordmark.svg"
+      alt="nodejs"
+      width="40"
+      height="40"
+    />
+  </a>
+  <a href="https://www.postgresql.org" target="_blank">
+    <img
+      src="https://devicons.github.io/devicon/devicon.git/icons/postgresql/postgresql-original-wordmark.svg"
+      alt="postgresql"
+      width="40"
+      height="40"
+    />
+  </a>
+  <a href="https://reactjs.org/" target="_blank">
+    <img
+      src="https://devicons.github.io/devicon/devicon.git/icons/react/react-original-wordmark.svg"
+      alt="react"
+      width="40"
+      height="40"
+    />
+  </a>
+  <a href="https://www.typescriptlang.org/" target="_blank">
+    <img
+      src="https://devicons.github.io/devicon/devicon.git/icons/typescript/typescript-original.svg"
+      alt="typescript"
+      width="40"
+      height="40"
+    />
+  </a>
+    <a href="https://www.php.net/" target="_blank">
+    <img
+      src="https://www.vectorlogo.zone/logos/php/php-ar21.svg"
+      alt="php"
+      width="40"
+      height="40"
+    />
+  </a>
 </p>
 
-<!--
-<p align="left">
-📫  Quer falar comigo? Me mande mensagem em alguma dessas redes sociais abaixo!
-</p>
--->
-<p align="center"> 
- <a><img src="https://github-readme-stats.vercel.app/api?username=gustavobcardoso&show_icons=true&theme=graywhite" /></a>
-</p> 
+### Find me around the web 🌎:
+
+- 💼 Connecting and sharing professional updates on <a href="https://www.linkedin.com/in/gustavobcardoso/">LinkedIn</a>.
