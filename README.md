@@ -99,8 +99,8 @@
     <img
       src="https://www.vectorlogo.zone/logos/php/php-icon.svg"
       alt="php"
-      width="60"
-      height="60"
+      width="50"
+      height="50"
     />
   </a>
     </a>
