@@ -120,6 +120,16 @@
       width="40"
       height="40"
     />
+  </a>
+  <a href="https://www.tableau.com/pt-br"_blank">
+    <img
+      src="https://github.com/AwesomeLogos/logomono/blob/gh-pages/logos/tableau-software.svg"
+      alt="tableau"
+      width="40"
+      height="40"
+    />
+  </a>
+
 
 </p>
 
