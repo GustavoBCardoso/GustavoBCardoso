@@ -125,8 +125,8 @@
     <img
       src="https://github.com/AwesomeLogos/logomono/blob/gh-pages/logos/tableau-software.svg"
       alt="tableau"
-      width="40"
-      height="40"
+      width="80"
+      height="60"
     />
   </a>
 
