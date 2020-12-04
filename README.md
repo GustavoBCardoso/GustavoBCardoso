@@ -140,5 +140,7 @@
 
 ### Find me around the web 🌎:
 
-- 💼 Connecting and sharing professional updates on [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/gustavobcardoso/) or contact us at [![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:gustavob68@gmail.com).
-
+- 💼 Connecting and sharing professional updates on <a href="https://www.linkedin.com/in/gustavobcardoso" alt="Linkedin">
+<img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/gustavobcardoso" /></a>
+or contact us at <a href="gustavob68@gmail.com" alt="Gmail">
+  <img src="https://img.shields.io/badge/-Gmail-FF0000?style=flat-square&labelColor=FF0000&logo=gmail&logoColor=white&link=gustavob68@gmail.com" /></a>.
