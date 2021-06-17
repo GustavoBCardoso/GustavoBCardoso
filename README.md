@@ -9,10 +9,7 @@
 
 <p align="center">
   <a href="https://github.com/GustavoBCardoso/github-readme-stats">
-    <img
-      align="center"
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=GustavoBCardoso&layout=compact"
-    />
+    <img height='172' src='https://github-readme-stats.vercel.app/api/top-langs/?username=GustavoBCardoso&layout=compact&theme=dark'>
   </a>
   <a href="https://github.com/GustavoBCardoso/github-readme-stats">
     <img
