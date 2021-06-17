@@ -12,11 +12,7 @@
     <img height='172' src='https://github-readme-stats.vercel.app/api/top-langs/?username=GustavoBCardoso&layout=compact&theme=dark'>
   </a>
   <a href="https://github.com/GustavoBCardoso/github-readme-stats">
-    <img
-      align="center"
-      height="165"
-      src="https://github-readme-stats.vercel.app/api?username=GustavoBCardoso&count_private=true&show_icons=true&custom_title=Github%20Status&hide=issues"
-    />
+    <img height='172' src='https://github-readme-stats.vercel.app/api?username=GustavoBCardoso&show_icons=true&theme=dark'>
   </a>
 </p>
 
