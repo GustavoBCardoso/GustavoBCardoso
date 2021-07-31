@@ -30,8 +30,8 @@
   More than 5 years working in the information technology.<br>
   In constant search and improvement of knowledge. <br><br>
 
-- 👨‍💻 I'm currently working full-time at **Maleta do Engenheiro**.
-- 🌱 Learning more about and studying: **NodeJS, ReactJS, React Native and SpringBoot**.
+- 👨‍💻 I'm currently working full-time at **XPInc.**
+- 🌱 Learning more about and studying: **NodeJS, ReactJS, React Native and Docker/Azure**.
 
 ### Languages and Tools
 <div style="display: inline_block"><br>
