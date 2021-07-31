@@ -1,11 +1,12 @@
 <p align="center">
   <a href="#">
-    <img align="center" width="280" src="signature.png" />
+    <img align="center" width="280" src="images/signature.png" />
   </a>
   <a href="#">
-    <img align="center" width="510" src="banner.gif" />
+    <img align="center" width="510" src="images/banner.gif" />
   </a>
 </p>
+
 
 <p align="center">
   <a href="https://github.com/GustavoBCardoso/github-readme-stats">
@@ -33,103 +34,42 @@
 - 🌱 Learning more about and studying: **NodeJS, ReactJS, React Native and SpringBoot**.
 
 ### Languages and Tools
+<div style="display: inline_block"><br>
+  <img align="center" alt="Gustavo-Js" height="30" width="40" src="images/icons/javascript/javascript-plain.svg">
 
-<br/>
-<p align="left">
+  <img align="center" alt="Rafa-Docker" height="30" width="40" src="images/icons/docker/docker-plain.svg">
 
-  <a href="https://www.docker.com/" target="_blank">
-    <img
-      src="https://devicons.github.io/devicon/devicon.git/icons/docker/docker-original-wordmark.svg"
-      alt="docker"
-      width="40"
-      height="40"
-    />
-  </a>
-  <a
-    href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"
-    target="_blank"
-  >
-    <img
-      src="https://devicons.github.io/devicon/devicon.git/icons/javascript/javascript-original.svg"
-      alt="javascript"
-      width="40"
-      height="40"
-    />
-  </a>
-  <a href="https://www.typescriptlang.org/" target="_blank">
-    <img
-      src="https://devicons.github.io/devicon/devicon.git/icons/typescript/typescript-original.svg"
-      alt="typescript"
-      width="40"
-      height="40"
-    />
-  </a>
-  <a href="https://reactjs.org/" target="_blank">
-    <img
-      src="https://devicons.github.io/devicon/devicon.git/icons/react/react-original-wordmark.svg"
-      alt="react"
-      width="40"
-      height="40"
-    />
-  </a>
-  <a href="https://nodejs.org" target="_blank">
-    <img
-      src="https://devicons.github.io/devicon/devicon.git/icons/nodejs/nodejs-original-wordmark.svg"
-      alt="nodejs"
-      width="40"
-      height="40"
-    />
-  </a>
-  <a href="https://www.php.net/" target="_blank">
-    <img
-      src="https://www.vectorlogo.zone/logos/php/php-icon.svg"
-      alt="php"
-      width="50"
-      height="50"
-    />
-  </a>
-  <a href="https://spring.io/projects/spring-boot" target="_blank">
-    <img
-      src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg"
-      alt="SpringBoot"
-      width="40"
-      height="40"
-    />
-  </a>
-  <a href="https://www.postgresql.org" target="_blank">
-    <img
-      src="https://devicons.github.io/devicon/devicon.git/icons/postgresql/postgresql-original-wordmark.svg"
-      alt="postgresql"
-      width="40"
-      height="40"
-    />
-  </a>
-  <a href="https://neo4j.com/" target="_blank">
-    <img
-      src="https://www.vectorlogo.zone/logos/neo4j/neo4j-icon.svg"
-      alt="neo4j"
-      width="40"
-      height="40"
-    />
-  </a>
-  <a href="https://www.mysql.com/"_blank">
-    <img
-      src="https://www.vectorlogo.zone/logos/mysql/mysql-official.svg"
-      alt="mysql"
-      width="40"
-      height="40"
-    />
-  </a>
-  <a href="https://www.tableau.com/pt-br"_blank">
-    <img
-      src="https://github.com/AwesomeLogos/logomono/blob/gh-pages/logos/tableau-software.svg"
-      alt="tableau"
-      width="100"
-      height="60"
-    />
-  </a>
+  <img align="center" alt="Rafa-Ts" height="30" width="40" src="images/icons/typescript/typescript-plain.svg">
 
-</p>
+  <img align="center" alt="Gustavo-React" height="30" width="40" src="images/icons/react/react-original-wordmark.svg">
+
+   <img align="center" alt="Gustavo-Redux" height="30" width="40" src="images/icons/redux/redux-original.svg">
+
+  <img align="center" alt="Gustavo-HTML" height="30" width="40" src="images/icons/html5/html5-original.svg">
+
+  <img align="center" alt="Gustavo-CSS" height="30" width="40" src="images/icons/css3/css3-original.svg">
+
+  <img align="center" alt="Gustavo-Bootstrap" height="30" width="40" src="images/icons/bootstrap/bootstrap-plain.svg">
+
+  <img align="center" alt="Gustavo-NodeJs" height="30" width="40" src="images/icons/nodejs/nodejs-original.svg">
+
+  <img align="center" alt="Gustavo-PHP" height="30" width="40" src="images/icons/php/php-original.svg">
+
+  <img align="center" alt="Gustavo-Neo4J" height="30" width="40" src="images/icons/neo4j/neo4j.svg">
+
+  <img align="center" alt="Gustavo-PostgreSql" height="30" width="40" src="images/icons/postgresql/postgresql-original.svg">
+
+  <img align="center" alt="Gustavo-MySql" height="30" width="40" src="images/icons/mysql/mysql-original.svg">
+
+  <img align="center" alt="Gustavo-Yarn" height="30" width="40" src="images/icons/yarn/yarn-original.svg">
+
+  <img align="center" alt="Gustavo-VSCode" height="30" width="40" src="images/icons/vscode/vscode-original.svg">
+
+  <img align="center" alt="Gustavo-Slack" height="30" width="40" src="images/icons/slack/slack-original.svg">
+
+  <img align="center" alt="Gustavo-Sass" height="30" width="40" src="images/icons/sass/sass-original.svg">
+</div>
+<br>
 
 ### Find me around the web 🌎:
 
