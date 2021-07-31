@@ -71,12 +71,11 @@
 </div>
 <br>
 
+##
+
 ### Find me around the web 🌎:
 
-- 💼 Connecting and sharing professional updates on <a href="https://www.linkedin.com/in/gustavobcardoso" alt="Linkedin">
-<img alt="Siga no Linkedin" src="https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/gustavobcardoso"></a>
-or contact us at <a href="gustavob68@gmail.com" alt="Gmail">
-  <img src="https://img.shields.io/badge/-Gmail-FF0000?style=flat-square&labelColor=FF0000&logo=gmail&logoColor=white&link=gustavob68@gmail.com" /></a>.
+  <a href = "mailto:gustavob68@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href="https://www.linkedin.com/in/gustavobcardoso" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
   
-  
-
+[Snake animation](https://github.com/gustavobcardoso/gustavobcardoso/blob/output/github-contribution-grid-snake.svg)
